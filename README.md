@@ -1,2 +1,2 @@
 # Java
-Projetos Java
+Projetos acadêmicos Java
